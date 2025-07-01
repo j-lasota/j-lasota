@@ -32,7 +32,7 @@ Harvestly is a full-stack platform connecting local food vendors with customers.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django,postgres,mongodb,git,bitbucket,docker,postman,graphql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django,postgres,mongodb,git,docker,graphql" />
   </a>
 </p>
 
